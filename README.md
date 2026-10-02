@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**radisenmandinu/radisenmandinu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Radisen Mandinu, Software Engineering undergraduate student at SLIIT.
 
-Here are some ideas to get you started:
+I'm passionate about creating clean, responsive, and user-friendly web experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently focused on improving my frontend development skills and building projects that turn ideas into interactive web applications.
+
+### What I'm Learning
+
+- 🌐 HTML, CSS & JavaScript
+- ⚛️ React.js
+- 🎨 Responsive Web Design
+- 🧩 UI/UX Principles
+- 🔧 Git & GitHub
+
+### 🛠️ What I Like to Build
+
+- Responsive websites
+- Interactive user interfaces
+- Landing pages
+- Web applications
+- Personal and university projects
+
+### 🎯 My Goal
+
+To become a skilled Software developer, Specially frontend developer and continuously improve by learning, building, and experimenting with new technologies.
+
+
+Thanks for visiting my profile!
